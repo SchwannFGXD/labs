@@ -68,3 +68,13 @@ Very simple command that shows history of commands used.
 - The tab key can be used to auto complete whilst writing commands in the terminal.
 
 # git commands
+
+There are several git commands but a general sequence to it as displayed below:
+
+1) **git init** is first used to create a new git repositry within a directory.
+2) **git remote** - creates a remote repositry online.
+3) **git add .** - places modified files in the current directory into a staging area.
+4) **git commit -m""** - takes everything from the staging area and captures a snapshot of it. The m part and the quotation marks allows you to write a message which normally is used to describe the changes made.
+5) **git push** -  uploads the saved snapshot into the remote repository.
+
+There is also a **git status** command which shows the state of the current directory and staging area. 
