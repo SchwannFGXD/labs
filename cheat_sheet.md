@@ -18,9 +18,8 @@ This command stands for change directory. It is normally used in combination wit
 
 For instance the following pictures will display an example:
 ![ls picture](ls.png)
-This shows the current directory.
 ![cd picture](cd.png)
-This shows how cd Documents changed the current directory to the Documents one.
+The first picture shows the current directory whilst the second picture shows how cd Documents changed the current directory to the Documents one.
 
 There is also another way of using **cd**. If you use cd by itself then it will simply change the directory to the home directory.
 
