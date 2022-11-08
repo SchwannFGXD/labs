@@ -66,3 +66,5 @@ Very simple command that shows history of commands used.
 - An alterantive to history is using the up and down keys instead to see recent commands where up key will show previous command and down can be used for the next command. Almost like a scroll wheel.
 
 - The tab key can be used to auto complete whilst writing commands in the terminal.
+
+# git commands
